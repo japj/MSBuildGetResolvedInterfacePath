@@ -1,0 +1,2 @@
+# MSBuildGetResolvedInterfacePath
+Example of extending the Microsoft.CppBuild.targets ProjectReference Protocol for AdditionalIncludeDirectories
