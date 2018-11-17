@@ -7,4 +7,9 @@
     </MSBuildAllProjects>
   </PropertyGroup>
 
+  <!--
+  TODO: move defaults into props file
+  *) Name of default 'interface' folder
+  -->
+
 </Project>
