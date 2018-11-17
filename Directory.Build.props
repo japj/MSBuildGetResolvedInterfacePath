@@ -7,7 +7,7 @@
 
     <Authors>Jeroen Janssen</Authors>
     <Owners>Jeroen Janssen</Owners>
-    <PackageLicenseUrl>https://github.com/japj/MSBuildGetResolvedInterfacePath/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/japj/MSBuildGetResolvedInterfacePath/</PackageProjectUrl>
     <PackageIconUrl>https://github.com/Microsoft/msbuild/raw/master/branding/MSBuild-NuGet-Icon.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/japj/MSBuildGetResolvedInterfacePath.git</RepositoryUrl>

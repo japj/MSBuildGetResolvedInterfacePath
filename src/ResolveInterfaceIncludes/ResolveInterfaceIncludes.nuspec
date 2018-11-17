@@ -8,7 +8,7 @@
     <owners>$authors$</owners>
     <copyright>$copyright$</copyright>
     <projectUrl>$projecturl$</projectUrl>
-    <licenseUrl>$licenseurl$</licenseUrl>
+    <license type="expression">$PackageLicenseExpression$</license>
     <iconUrl>$iconurl$</iconUrl>
     <tags>$tags$</tags>
     <packageTypes>
