@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Provides the ability to automatically resolve additional include paths to ProjectReferences.</Description>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <PackageTags>MSBuild MSBuildSdk</PackageTags>
+  </PropertyGroup>
+
+</Project>
