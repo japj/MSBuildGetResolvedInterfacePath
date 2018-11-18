@@ -12,4 +12,13 @@
   *) Name of default 'interface' folder
   -->
 
+  <PropertyGroup>
+    <!-- Workaround for DesignTime/Intellisense to work, otherwise discovery will not call into ProjectReferences for include path retrieval
+         Microsoft.Cpp.DesignTime.targets will look at AlwaysResolveReferencesDesignTime during 'InitGetClCommandLines' Target.
+
+         TODO: this is possible 'overkill' to get ProjectReferences working, perhaps there is a better way?
+    -->
+    <AlwaysResolveReferencesDesignTime>true</AlwaysResolveReferencesDesignTime>
+  </PropertyGroup>
+
 </Project>

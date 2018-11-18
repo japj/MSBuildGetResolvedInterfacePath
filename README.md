@@ -72,7 +72,8 @@ and how `Microsoft.CppBuild.targets` works with `ComputeReferenceLinkInputs`, `R
 
 ## Todo Items
 
-* investigate possible intellisense issue with header file not found?
 * move name of default 'interface' folder into props file, so it can be customized from project file
 * investigate [MSBuildSDK](https://github.com/Microsoft/MSBuildSdks) based unittest (using the MSBuild engine?)
 * enable correct nuget package? (t.b.d. if regular C++ projects can use nuget style SDK projects or not)
+
+* investigate other solution to enable intellisene (see AlwaysResolveReferencesDesignTime in Sdk.props)
